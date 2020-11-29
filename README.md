@@ -7,6 +7,6 @@
 2. POST digunakan untuk post data Token ke API yang telah didapat untuk create new session
 
 ## SCREENSHOT
-![Alt text](/tugasMod5_1.png?raw=true "Screenshot Hasil saat Data ditemukan 1")
-![Alt text](/tugasMod5_2.png?raw=true "Screenshot Hasil saat Data ditemukan 2")
-![Alt text](/tugasMod5_3.png?raw=true "Screenshot Hasil saat Data tidak ditemukan")
+![Alt text](/tugasMod5_1.png?raw=true "Screenshot Tugas")
+![Alt text](/tugasMod5_2.png?raw=true "Screenshot Tugas")
+![Alt text](/tugasMod5_3.png?raw=true "Screenshot Tugas")
